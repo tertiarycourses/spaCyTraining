@@ -1,8 +1,8 @@
 
-# Deep Learning NLP with spaCy
+# Natural Language Processing (NLP) with Python and SpaCy
 ## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
-These are the exercise files used for [Deep Learning NLP with spaCy](https://www.tertiarycourses.com.sg/deep-learning-nlp-with-spacy.html) course. 
+These are the exercise files used for [Natural Language Processing (NLP) with Python and SpaCy](https://www.tertiarycourses.com.sg/deep-learning-nlp-with-spacy.html) course. 
 
 The course outline can be found in 
 
